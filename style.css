@@ -1,0 +1,16 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #1e1e2f;
+  color: #fff;
+  padding: 2rem;
+  margin: 0;
+}
+.landing {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+.hidden {
+  display: none;
+}
